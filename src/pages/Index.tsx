@@ -148,7 +148,7 @@ const Index = () => {
 - Actionable recommendations
 
 Use current data and cite sources when possible. Include relevant metrics, charts, and expert opinions. Focus on providing actionable insights and strategic recommendations.
-And Atlast after giving the complete research report to the user, ask to user if he need the complete year by year chronological events of the company, and if he said proceed, give him the complete year by year chronological events of the company in a detailed manner without missing anything or any year.
+And Atlast after giving the complete research report to the user, ask to user if he need the complete year by year chronological events of the company, and if he said proceed, give him the complete year by year chronological events of the company in a detailed manner without missing anything or any year .
 ``
             },
             ...newMessages
